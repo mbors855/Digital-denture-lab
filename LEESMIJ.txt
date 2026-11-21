@@ -1,0 +1,6 @@
+DIGITAL DENTURE LAB 3D
+
+Upload de volledige mapinhoud naar een statische webhost zoals Netlify Drop.
+Open daarna de HTTPS-link in Safari op je iPhone.
+Tik op Deel > Zet op beginscherm > Voeg toe.
+De game werkt met aanraakbesturing en heeft geen externe scripts nodig.
